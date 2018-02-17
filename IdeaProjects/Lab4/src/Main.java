@@ -23,6 +23,7 @@ public class Main {
 
 
         // while loop to go through each value in the hexadecimal
+        // stops when no more values available
 
         while (i >= 0) {
 
